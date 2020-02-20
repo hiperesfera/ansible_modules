@@ -73,7 +73,7 @@ changed:
     description: If changed or not (true if results completed)
     type: bool
 output:
-    description: Scan name and ID in Nessus.sc
+    description: Nessus.sc Asset list name
     type: JSON
 '''
 
