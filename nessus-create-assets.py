@@ -55,7 +55,7 @@ requirements:
 
 
 EXAMPLES = '''
-- name: Run Nessus.sc scan
+- name: Create Nessus.sc asset list
   nessus-create-assets
       asset_name: "Linux hosts"
       asset_type: "DNS"
