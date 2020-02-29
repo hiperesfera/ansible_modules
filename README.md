@@ -1,4 +1,4 @@
-Nessus modules for Ansible
+# Nessus Security Center modules for Ansible
 
 This repository contains a list of Ansible modules to run the most common tasks on Nessus Security Center (Nessus.sc) :
 - Create scans
